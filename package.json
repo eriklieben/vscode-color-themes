@@ -1,16 +1,17 @@
 {
-  "name": "erik-color-themes",
-  "displayName": "Erik's vscode themes",
+  "name": "color-themes",
+  "displayName": "Erik's color themes",
   "description": "Color themes adjusted to my preferences",
   "publisher": "Erik-Lieben",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.92.0"
   },
   "author": {
     "name": "Erik Lieben"
   },
+  "icon": "./assets/icon.jpg",
   "categories": [
     "Themes"
   ],
