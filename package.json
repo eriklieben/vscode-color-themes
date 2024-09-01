@@ -1,0 +1,31 @@
+{
+  "name": "erik-color-themes",
+  "displayName": "Erik's vscode themes",
+  "description": "Color themes adjusted to my preferences",
+  "publisher": "Erik-Lieben",
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "author": {
+    "name": "Erik Lieben"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Erik's Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/erik-dark-color-theme.json"
+      },
+      {
+        "label": "Erik's Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/erik-light-color-theme.json"
+      }
+    ]
+  }
+} 
