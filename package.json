@@ -20,12 +20,14 @@
       {
         "label": "Erik's Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/erik-dark-color-theme.json"
+        "path": "./themes/erik-dark-color-theme.json",
+        "id": "erik-vs-dark"
       },
       {
         "label": "Erik's Light Theme",
         "uiTheme": "vs",
-        "path": "./themes/erik-light-color-theme.json"
+        "path": "./themes/erik-light-color-theme.json",
+        "id": "erik-vs"
       }
     ]
   },
